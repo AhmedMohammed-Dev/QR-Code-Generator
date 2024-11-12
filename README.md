@@ -95,7 +95,7 @@ We welcome contributions to improve this project! If you want to add a feature o
 
 Here’s a preview of how the QR Code Generator looks:
 
-![QR Code Generator Screenshot](https://via.placeholder.com/800x400.png?text=QR+Code+Generator+Screenshot)
+![QR Code Generator Screenshot](QR.PNG)
 
 ---
 
