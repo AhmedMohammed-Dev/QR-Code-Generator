@@ -95,7 +95,7 @@ We welcome contributions to improve this project! If you want to add a feature o
 
 Here’s a preview of how the QR Code Generator looks:
 
-![QR Code Generator Screenshot](QR.PNG)
+![QR Code Generator Screenshot](/AhmedMohammed-Dev/QR-Code-Generator/blob/main/QR.png)
 
 ---
 
