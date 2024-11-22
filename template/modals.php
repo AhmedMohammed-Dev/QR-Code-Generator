@@ -49,6 +49,7 @@ if ($privacy_content) {
   </div>
     <?php
 }
+//Ahmed Mohammed Mohammed
 if ($terms_content) {
     ?>
   <div class="modal fade" id="termsModal" tabindex="-1" aria-hidden="true">
