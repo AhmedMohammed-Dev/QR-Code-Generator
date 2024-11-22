@@ -4,7 +4,7 @@
  * ajax/btc-check.php
  *
  * PHP version 5.4+
- *
+ *Ahmed Mohammed Mohammed
 
  */
 error_reporting(E_ALL);
