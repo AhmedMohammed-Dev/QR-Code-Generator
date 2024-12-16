@@ -2,9 +2,6 @@
 
 A fast, simple, and responsive **QR Code Generator** that allows you to generate QR codes from any URL, text, or custom data. This tool is lightweight, easy to use, and built with modern web technologies. Whether you need to share a link, store contact information, or encode other types of data, this generator is your go-to solution.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/qr-code-generator?style=social)](https://github.com/yourusername/qr-code-generator)  
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/qr-code-generator?style=social)](https://github.com/yourusername/qr-code-generator)
 
 ---
 
